@@ -1,0 +1,153 @@
+﻿ID,Region,Tipo,Nombre,Comuna,y,x,Prestador,Complejidad
+106010,Región De Valparaíso,Dirección Servicio de Salud,Actividades gestionadas por la Dirección del Servicio para apoyo de la Red (S.S de Valparaíso,Valparaíso,-33.044294,-71.621091,Público ,Baja Complejidad
+106011,Región De Valparaíso,Programa de Reparación y Atención Integral de Salud,PRAIS (S.S Valparaíso San Antonio),Valparaíso,-33.044294,-71.621091,Público ,Baja Complejidad
+106012,Región De Valparaíso,Clínica Dental Móvil,Clínica Dental Móvil Triple. Pat. PW4101 (Valparaíso),Valparaíso,-33.044294,-71.621091,Público ,Baja Complejidad
+106030,Región De Valparaíso,Unidad de Salud Funcionarios ,Unidad de Salud Funcionario S.S Valparaíso San Antonio,Valparaíso,-33.044294,-71.621091,Público ,Baja Complejidad
+106095,Región De Valparaíso,Vacunatorio,Vacunatorio SEREMI de Salud de Valparaíso,Valparaíso,-33.044294,-71.621091,Público ,Baja Complejidad
+106100,Región De Valparaíso,Hospital ,Hospital Carlos Van Buren (Valparaíso),Valparaíso,-33.050258,-71.611098,Público ,Alta Complejidad
+106102,Región De Valparaíso,Hospital ,Hospital Dr. Eduardo Pereira Ramírez (Valparaíso),Valparaíso,-33.05679,-71.58962,Público ,Alta Complejidad
+106103,Región De Valparaíso,Hospital ,Hospital Claudio Vicuña ( San Antonio),San Antonio,-33.588809,-71.608623,Público ,Alta Complejidad
+106104,Región De Valparaíso,Hospital,Hospital Siquíatrico del Salvador ,Valparaíso,-33.021285,-71.642513,Público ,Mediana Complejidad
+106150,Región De Valparaíso,Consultorio de Diagnóstico y Tratamiento (CDT),Centro de Sangre y Tejidos IV y V Región,Valparaíso,-33.052658,-71.609776,Público ,Alta Complejidad
+106151,Región De Valparaíso,Centro de Referencia de Salud (CRS),Centro de Referencia de Salud Odontológica,Valparaíso,-33.044101,-71.621487,Público ,Mediana Complejidad
+106204,Región De Valparaíso,Clínica,Clínica San Julián,San Antonio,-33.584329,-71.611996,Privado,Baja Complejidad
+106205,Región De Valparaíso,Clínica,Clínica San Antonio,San Antonio,-33.58032,-71.608864,Privado,Baja Complejidad
+106207,Región De Valparaíso,Centro Corporación para la Nutrición Infantil (CONIN),Centro CONIN Valparaíso,Valparaíso,-33.05509,-71.622901,Privado,Mediana Complejidad
+106213,Región De Valparaíso,Hospital,Complejo Penitenciario,Valparaíso,-33.066338,-71.632927,Gendarmería,Baja Complejidad
+106214,Región De Valparaíso,Clínica,Clínica Valparaíso,Valparaíso,-33.045228,-71.611095,Privado,Alta Complejidad
+106234,Región De Valparaíso,Centro de Salud,Centro de Salud Mutual CChC San Antonio,San Antonio,-33.613143,-71.612106,Privado,Baja Complejidad
+106236,Región De Valparaíso,Centro Médico y Dental,Centro Médico y Dental Valparaíso Capredena,Valparaíso,-33.04522,-71.616436,Fuerzas Armadas y de Orden,Mediana Complejidad
+106237,Región De Valparaíso,Clínica,Clínica de la Agrupación Médica Americana,Valparaíso,-33.04361,-71.624661,Privado,Pendiente
+106238,Región De Valparaíso,Centro de Salud,Centro de Salud ASOMEL,Valparaíso,-33.049302,-71.616068,Privado,Pendiente
+106239,Región De Valparaíso,Laboratorio Clínico o Dental,Laboratorio Diagnóstico e Imagenológico,Valparaíso,-33.043632,-71.62477,Privado,No Aplica
+106240,Región De Valparaíso,Clínica Dental,Centro Dental Árabe Miguel Jahiatt,Valparaíso,-33.047182,-71.607555,Privado,Mediana Complejidad
+106241,Región De Valparaíso,Clínica Dental,Clínica Dental (Dirección Servicios Estudiantiles Universidad Católica),Valparaíso,-33.045833,-71.606082,Privado,Mediana Complejidad
+106242,Región De Valparaíso,Centro de Salud,Policlínico (Dirección de Servicios Estudiantiles Universidad Católica),Valparaíso,-33.045833,-71.606082,Privado,Baja Complejidad
+106243,Región De Valparaíso,Centro de Salud,Instituto Teletón Valparaíso,Valparaíso,-33.045294,-71.611763,Privado,Mediana Complejidad
+106244,Región De Valparaíso,Centro de Salud,Policlínico Instituto de Seguridad del Trabajo de Valparaíso,Valparaíso,-33.043802,-71.616675,Privado,Baja Complejidad
+106245,Región De Valparaíso,Laboratorio Clínico o Dental,Laboratorio Docencia e Investigación Científica (Universidad de Valparaíso),Valparaíso,-33.052022,-71.608461,Privado,No Aplica
+106246,Región De Valparaíso,Laboratorio Clínico o Dental,Laboratorio Fadda Ltda.,Valparaíso,-33.043558,-71.625394,Privado,No Aplica
+106247,Región De Valparaíso,Laboratorio Clínico o Dental,Laboratorio Hematológico,Valparaíso,-33.04254,-71.623287,Privado,No Aplica
+106248,Región De Valparaíso,Laboratorio Clínico o Dental,Laboratorio SEDELIS,Valparaíso,-33.045527,-71.62214,Privado,No Aplica
+106249,Región De Valparaíso,Laboratorio Clínico o Dental,Laboratorio Toxicología Humana y Ambiental (Universidad de Playa Ancha),Valparaíso,-33.021062,-71.6417,Privado,No Aplica
+106256,Región De Valparaíso,Centro de Salud,Centro de Salud Asociación Triomar,San Antonio,-33.580622,-71.609606,Privado,Pendiente
+106257,Región De Valparaíso,Centro de Salud,Centro de Atención CENCLIVAL,Valparaíso,-33.045547,-71.622161,Privado,Pendiente
+106258,Región De Valparaíso,Centro de Salud,Centro de Atención Primaria de Salud Naval (Valparaíso),Valparaíso,-33.024958,-71.636778,Fuerzas Armadas y de Orden,Baja Complejidad
+106259,Región De Valparaíso,Centro de Salud,Centro Médico del Niño y Adolescente de Valparaíso,Valparaíso,-33.04734,-71.61986,Privado,Mediana Complejidad
+106260,Región De Valparaíso,Centro de Salud,Consultorio Prefectura de Carabineros San Antonio,San Antonio,-33.597769,-71.612731,Fuerzas Armadas y de Orden,Baja Complejidad
+106261,Región De Valparaíso,Centro de Salud,Policlínico de la Asociación Chilena de Seguridad AChS. Agencia San Antonio,San Antonio,-33.593305,-71.613478,Privado,Baja Complejidad
+106262,Región De Valparaíso,Centro de Salud,Policlínico de la Asociación Chilena de Seguridad AChS. Agencia Valparaíso,Valparaíso,-33.044402,-71.618974,Privado,Baja Complejidad
+106263,Región De Valparaíso,Centro Médico y Dental,Centro Médico y Dental Megasalud Valparaíso,Valparaíso,-33.042394,-71.604608,Privado,Mediana Complejidad
+106300,Región De Valparaíso,Centro de Salud Familiar (CESFAM),Centro de Salud Familiar Placeres,Valparaíso,-33.045576,-71.583492,Público ,Baja Complejidad
+106301,Región De Valparaíso,Centro de Salud Familiar (CESFAM),Centro de Salud Familiar Esperanza,Valparaíso,-33.033559,-71.582603,Público ,Baja Complejidad
+106302,Región De Valparaíso,Centro de Salud Familiar (CESFAM),Centro de Salud Familiar Barón,Valparaíso,-33.039003,-71.600794,Público ,Baja Complejidad
+106303,Región De Valparaíso,Centro de Salud Familiar (CESFAM),Centro de Salud Familiar Reina Isabel II,Valparaíso,-33.060844,-71.592492,Público ,Baja Complejidad
+106304,Región De Valparaíso,Centro de Salud Familiar (CESFAM),Centro de Salud Familiar Placilla,Valparaíso,-33.112857,-71.566016,Público ,Baja Complejidad
+106305,Región De Valparaíso,Centro de Salud Familiar (CESFAM),Centro de Salud Familiar Jean y Marie Thierry,Valparaíso,-33.052783,-71.609986,Público ,Baja Complejidad
+106306,Región De Valparaíso,Centro de Salud Familiar (CESFAM),Centro de Salud Familiar Las Cañas,Valparaíso,-33.058761,-71.607124,Público ,Baja Complejidad
+106307,Región De Valparaíso,Centro de Salud Familiar (CESFAM),Centro de Salud Familiar Marcelo Mena,Valparaíso,-33.04907,-71.631253,Público ,Baja Complejidad
+106308,Región De Valparaíso,Centro de Salud Familiar (CESFAM),Centro de Salud Familiar Plaza Justicia,Valparaíso,-33.039383,-71.629299,Público ,Baja Complejidad
+106309,Región De Valparaíso,Centro de Salud Familiar (CESFAM),Centro de Salud Familiar Cordillera,Valparaíso,-33.043202,-71.636767,Público ,Baja Complejidad
+106311,Región De Valparaíso,Centro de Salud Familiar (CESFAM),Centro de Salud Familiar Quebrada Verde,Valparaíso,-33.042161,-71.645694,Público ,Baja Complejidad
+106312,Región De Valparaíso,Centro de Salud Familiar (CESFAM),Centro de Salud Familiar Puertas Negras,Valparaíso,-33.058539,-71.638998,Público ,Baja Complejidad
+106314,Región De Valparaíso,Centro de Salud Familiar (CESFAM),Centro de Salud Familiar San Antonio,San Antonio,-33.58948,-71.609893,Público ,Baja Complejidad
+106319,Región De Valparaíso,Centro de Salud Familiar (CESFAM),Centro de Salud Familiar Barrancas,San Antonio,-33.602121,-71.613408,Público ,Baja Complejidad
+106329,Región De Valparaíso,Centro de Salud Familiar (CESFAM),Centro de Salud Familiar Néstor Fernández Thomas,San Antonio,-33.609243,-71.601146,Público ,Baja Complejidad
+106330,Región De Valparaíso,Centro de Salud Familiar (CESFAM),Centro de Salud Familiar San José de Rodelillo,Valparaíso,-33.056307,-71.577235,Público ,Baja Complejidad
+106333,Región De Valparaíso,Centro de Salud Familiar (CESFAM),Centro de Salud Familiar 30 de Marzo,San Antonio,-33.59751,-71.605509,Público ,Baja Complejidad
+106334,Región De Valparaíso,Centro de Salud Familiar (CESFAM),Centro de Salud Familiar Padre Damián Molokai,Valparaíso,-33.057576,-71.561684,Público ,Baja Complejidad
+106335,Región De Valparaíso,Consultorio General Urbano (CGU),Consultorio Policlínica Diocesana,Valparaíso,-33.045949,-71.618716,Público ,Baja Complejidad
+106336,Región De Valparaíso,Centro de Salud Familiar (CESFAM),Centro de Salud Familiar Diputado Manuel Bustos Huerta,San Antonio,-33.56746,-71.605783,Público ,Baja Complejidad
+106401,Región De Valparaíso,Posta de Salud Rural (PSR),Posta de Salud Rural Laguna Verde,Valparaíso,-33.09878,-71.662495,Público ,Baja Complejidad
+106417,Región De Valparaíso,Posta de Salud Rural (PSR),Posta de Salud Rural El Asilo,San Antonio,-33.752763,-71.363354,Público ,Baja Complejidad
+106418,Región De Valparaíso,Posta de Salud Rural (PSR),Posta de Salud Rural Cuncumén (San Antonio),San Antonio,-33.735189,-71.424339,Público ,Baja Complejidad
+106419,Región De Valparaíso,Posta de Salud Rural (PSR),Posta de Salud Rural San Juan de San Antonio,San Antonio,-33.634871,-71.543119,Público ,Baja Complejidad
+106420,Región De Valparaíso,Posta de Salud Rural (PSR),Posta de Salud Rural Leyda,San Antonio,-33.613738,-71.444255,Público ,Baja Complejidad
+106422,Región De Valparaíso,Posta de Salud Rural (PSR),Posta de Salud Rural Lo Gallardo,San Antonio,-33.630935,-71.595789,Público ,Baja Complejidad
+106711,Región De Valparaíso,Centro Comunitario de Salud Familiar (CECOSF),Centro Comunitario de Salud Familiar Porvenir Bajo,Valparaíso,-33.033783,-71.649899,Público ,Baja Complejidad
+106729,Región De Valparaíso,Centro Comunitario de Salud Familiar (CECOSF),Centro Comunitario de Salud Familiar Tejas Verdes,San Antonio,-33.617352,-71.619303,Público ,Baja Complejidad
+106736,Región De Valparaíso,Centro Comunitario de Salud Familiar (CECOSF),Centro Comunitario de Salud Familiar Manuel Bustos Huerta,San Antonio,-33.578427,-71.617385,Público ,Baja Complejidad
+106800,Región De Valparaíso,Servicio de Atención Primaria de Urgencia (SAPU),SAPU Placeres,Valparaíso,-33.045552,-71.583315,Público ,Baja Complejidad
+106804,Región De Valparaíso,Servicio de Atención Primaria de Urgencia (SAPU),SAPU Placilla,Valparaíso,-33.112914,-71.566161,Público ,Baja Complejidad
+106811,Región De Valparaíso,Servicio de Atención Primaria de Urgencia (SAPU),SAPU Quebrada Verde,Valparaíso,-33.042304,-71.645856,Público ,Baja Complejidad
+106829,Región De Valparaíso,Servicio de Atención Primaria de Urgencia (SAPU),SAPU Néstor Fernández Thomas,San Antonio,-33.609329,-71.601307,Público ,Baja Complejidad
+107010,Región De Valparaíso,Dirección Servicio de Salud,Actividades gestionadas por la Dirección del Servicio para apoyo de la Red (S.S de Viña del Mar,Viña del Mar,-33.025962,-71.562164,Público ,Baja Complejidad
+107011,Región De Valparaíso,Programa de Reparación y Atención Integral de Salud,PRAIS (S.S Viña del Mar Quillota),Viña del Mar,-33.025962,-71.562164,Público ,Baja Complejidad
+107012,Región De Valparaíso,Clínica Dental Móvil,Clínica Dental Móvil Triple. Pat. PW4102 (Viña del Mar ),Viña del Mar,-33.029436,-71.540729,Público ,Baja Complejidad
+107030,Región De Valparaíso,Unidad de Salud Funcionarios ,Unidad de Salud FuncionarioS.S Viña del Mar Quillota,Viña del Mar,-33.025962,-71.562164,Público ,Baja Complejidad
+107100,Región De Valparaíso,Hospital ,Hospital Dr. Gustavo Fricke (Viña del Mar),Viña del Mar,-33.0294,-71.541725,Público ,Alta Complejidad
+107200,Región De Valparaíso,Clínica,Clínica Miraflores,Viña del Mar,-33.027116,-71.531387,Privado,Alta Complejidad
+107206,Región De Valparaíso,Clínica,Clínica Reñaca,Viña del Mar,-32.983582,-71.533631,Privado,Alta Complejidad
+107210,Región De Valparaíso,Hospital,Sanatorio Marítimo San Juan de Dios,Viña del Mar,-32.994608,-71.520496,Privado,Pendiente
+107211,Región De Valparaíso,Clínica,Instituto de Seguridad del Trabajo,Viña del Mar,-33.026528,-71.552858,Privado,Alta Complejidad
+107212,Región De Valparaíso,Hospital,Hospital Niños y Cunas,Viña del Mar,-33.028478,-71.540351,Privado,Baja Complejidad
+107217,Región De Valparaíso,Hospital,Hospital Naval Almirante Neff,Viña del Mar,-32.998382,-71.54382,Fuerzas Armadas y de Orden,Alta Complejidad
+107223,Región De Valparaíso,Clínica,Clínica Ciudad del Mar (ex Avansalud),Viña del Mar,-33.00999,-71.549408,Privado,Alta Complejidad
+107224,Región De Valparaíso,Hospital,Hospital Clínico Viña del Mar,Viña del Mar,-33.029048,-71.539064,Privado,Alta Complejidad
+107255,Región De Valparaíso,Centro Médico y Dental,Megasalud S.A. Centro Médico y Dental Viña del Mar,Viña del Mar,-33.020345,-71.554138,Privado,Mediana Complejidad
+107256,Región De Valparaíso,Centro de Salud,Centro de Salud Mutual CChC Viña del Mar,Viña del Mar,-33.027697,-71.54334,Privado,Baja Complejidad
+107261,Región De Valparaíso,Centro Médico y Dental,Centro Médico y Dental Carabineros V Zona de Valparaíso,Viña del Mar,-33.019367,-71.554957,Fuerzas Armadas y de Orden,Mediana Complejidad
+107262,Región De Valparaíso,Centro de Salud,Centro de Atención Primaria de Salud Naval (Viña del Mar),Viña del Mar,-33.000255,-71.543503,Fuerzas Armadas y de Orden,Baja Complejidad
+107264,Región De Valparaíso,Centro de Salud,MAS Salud Limitada,Viña del Mar,-33.008747,-71.550374,Privado,Mediana Complejidad
+107265,Región De Valparaíso,Laboratorio Clínico o Dental,Laboratorio Clínico Vida Integra,Viña del Mar,-33.009804,-71.549679,Privado,No Aplica
+107266,Región De Valparaíso,Centro de Salud,Policlínico de la Asociación Chilena de Seguridad AChS. Agencia Viña del Mar,Viña del Mar,-33.016273,-71.552062,Privado,Baja Complejidad
+107270,Región De Valparaíso,Vacunatorio,Vacunatorio Internacional Inmunyzan,Valparaíso,-33.049296,-71.616101,Privado,Baja Complejidad
+107300,Región De Valparaíso,Centro de Salud Familiar (CESFAM),Centro de Salud Familiar Nueva Aurora,Viña del Mar,-33.048096,-71.564574,Público ,Baja Complejidad
+107301,Región De Valparaíso,Centro de Salud Familiar (CESFAM),Centro de Salud Familiar Profesor Eugenio Cienfuegos,Viña del Mar,-33.004505,-71.540794,Público ,Baja Complejidad
+107302,Región De Valparaíso,Centro de Salud Familiar (CESFAM),Centro de Salud Familiar Miraflores,Viña del Mar,-33.020283,-71.515414,Público ,Baja Complejidad
+107303,Región De Valparaíso,Centro de Salud Familiar (CESFAM),Centro de Salud Familiar Gómez Carreño,Viña del Mar,-32.992347,-71.525536,Público ,Baja Complejidad
+107304,Región De Valparaíso,Centro de Salud Familiar (CESFAM),Centro de Salud Familiar Marco Maldonado,Viña del Mar,-33.02969,-71.540193,Público ,Baja Complejidad
+107314,Región De Valparaíso,Centro de Salud Familiar (CESFAM),Centro de Salud Familiar Lusitania,Viña del Mar,-33.027297,-71.524613,Público ,Baja Complejidad
+107325,Región De Valparaíso,Centro de Salud Familiar (CESFAM),Centro de Salud Familiar Dr. Juan Carlos Baeza,Viña del Mar,-33.031993,-71.496366,Público ,Baja Complejidad
+107326,Región De Valparaíso,Centro de Salud Familiar (CESFAM),Centro de Salud Familiar Brígida Zavala,Viña del Mar,-33.038464,-71.54191,Público ,Baja Complejidad
+107327,Región De Valparaíso,Centro de Salud Familiar (CESFAM),Centro de Salud Familiar Las Torres,Viña del Mar,-33.04637,-71.539283,Público ,Baja Complejidad
+107350,Región De Valparaíso,Clínica Dental,Centro de Referencia Odontológico Simón Bolívar,Viña del Mar,-33.053069,-71.500539,Público ,Mediana Complejidad
+107352,Región De Valparaíso,Centro de Salud Familiar (CESFAM),Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan,Viña del Mar,-32.99377,-71.485825,Público ,Baja Complejidad
+107702,Región De Valparaíso,Centro Comunitario de Salud Familiar (CECOSF),"Centro Comunitario de Salud Familiar Achupallas ""Sergio Donoso""",Viña del Mar,-33.014036,-71.502656,Público ,Baja Complejidad
+107703,Región De Valparaíso,Centro Comunitario de Salud Familiar (CECOSF),Centro Comunitario de Salud Familiar Santa Julia,Viña del Mar,-33.00086,-71.504518,Público ,Baja Complejidad
+107725,Región De Valparaíso,Centro Comunitario de Salud Familiar (CECOSF),Centro Comunitario de Salud Familiar Villa Hermosa,Viña del Mar,-33.0332,-71.4822,Público ,Baja Complejidad
+107727,Región De Valparaíso,Centro Comunitario de Salud Familiar (CECOSF),Centro Comunitario de Salud Familiar Las Palmas,Viña del Mar,-33.058845,-71.53753,Público ,Baja Complejidad
+107800,Región De Valparaíso,Servicio de Atención Primaria de Urgencia (SAPU),SAPU Nueva Aurora,Viña del Mar,-33.04773,-71.564586,Público ,Baja Complejidad
+107802,Región De Valparaíso,Servicio de Atención Primaria de Urgencia (SAPU),SAPU Miraflores (Viña del Mar),Viña del Mar,-33.020397,-71.515436,Público ,Baja Complejidad
+200002,Región De Valparaíso,Centro de Salud,Centro Médico CENTROMED,Viña del Mar,-33.018282,-71.555556,Privado,Baja Complejidad
+200021,Región De Valparaíso,Laboratorio Clínico o Dental,Laboratorio Clínico Servicios Médicos Valparaíso E.I.R.L,Valparaíso,-33.045513,-71.622124,Privado,No Aplica
+200045,Región De Valparaíso,Vacunatorio,Vacunatorio Caledonian,Viña del Mar,-33.01902,-71.548014,Privado,Baja Complejidad
+200078,Región De Valparaíso,Vacunatorio,Vacunatorio Estudio Pediátrico Integral,Viña del Mar,-33.010777,-71.549369,Privado,Baja Complejidad
+200106,Región De Valparaíso,Servicio de Atención Primaria de Urgencia (SAPU),SAPU Barrancas,San Antonio,-33.601628,-71.614047,Público ,Baja Complejidad
+200107,Región De Valparaíso,Servicio de Atención Primaria de Urgencia (SAPU),SAPU Diputado Manuel Bustos Huerta,San Antonio,-33.567502,-71.606125,Público ,Baja Complejidad
+200108,Región De Valparaíso,Servicio de Atención Primaria de Urgencia (SAPU),SAPU Marcelo Mena,Valparaíso,-33.048999,-71.631389,Público ,Baja Complejidad
+200109,Región De Valparaíso,Servicio de Atención Primaria de Urgencia (SAPU),SAPU Reina Isabel II,Valparaíso,-33.061061,-71.592518,Público ,Baja Complejidad
+200110,Región De Valparaíso,Servicio de Atención Primaria de Urgencia (SAPU),SAPU Gómez Carreño,Viña del Mar,-32.99234,-71.52585,Público ,Baja Complejidad
+200111,Región De Valparaíso,Servicio de Atención Primaria de Urgencia (SAPU),SAPU Las Torres,Viña del Mar,-33.046447,-71.539241,Público ,Baja Complejidad
+200113,Región De Valparaíso,Servicio de Atención Primaria de Urgencia (SAPU),SAPU Reñaca Alto,Viña del Mar,-32.993925,-71.486063,Público ,Baja Complejidad
+200268,Región De Valparaíso,Servicio de Atención Primaria de Urgencia de Alta Resolutividad (SAR),SAR Plan de Valparaíso,Valparaíso,-33.049205,-71.616665,Público ,Baja Complejidad
+200301,Región De Valparaíso,Clínica Dental,Centro Odontológico Uno Saluld Dental Valparaíso,Valparaíso,-33.043051,-71.622534,Privado,Mediana Complejidad
+200302,Región De Valparaíso,Clínica Dental,Centro Odontológico Uno Salud Dental Viña del Mar,Viña del Mar,-33.010534,-71.547783,Privado,Mediana Complejidad
+200306,Región De Valparaíso,Centro de Salud,Integramédica Viña del Mar,Viña del Mar,-33.010253,-71.546741,Privado,Baja Complejidad
+200341,Región De Valparaíso,Centro Comunitario de Salud Mental  (COSAM),COSAM Domingo Asún Salazar,Valparaíso,-33.043984,-71.624056,Público ,Mediana Complejidad
+200344,Región De Valparaíso,Laboratorio Clínico o Dental,Laboratorio Clínico Valparaíso Ltda.,Valparaíso,-33.045183,-71.612288,Privado,No Aplica
+200374,Región De Valparaíso,Unidad Oftalmológica Móvil,Unidad Oftalmológica Móvil,Valparaíso,-33.045949,-71.618716,Público ,Mediana Complejidad
+200378,Región De Valparaíso,Clínica Dental Móvil,Clínica Dental Móvil Pat. EZE-031 (Valparaíso),Valparaíso,-33.044294,-71.621091,Público ,Baja Complejidad
+200384,Región De Valparaíso,Centro de Salud,Centro Traumatológico Viña del Mar,Viña del Mar,-33.026552,-71.553094,Privado,Baja Complejidad
+200386,Región De Valparaíso,Clínica Dental Móvil,Clínica Dental Móvil Pat. EZE-032 (Valparaíso),Valparaíso,-33.044294,-71.621091,Público ,Baja Complejidad
+200421,Región De Valparaíso,Laboratorio Clínico o Dental,Laboratorio Clínico Aclin Ltda.,Viña del Mar,-33.014384,-71.5486,Privado,No Aplica
+200422,Región De Valparaíso,Laboratorio Clínico o Dental,Laboratorio Clínico Llo-Lleo Ltda.,San Antonio,-33.612366,-71.609712,Privado,No Aplica
+200423,Región De Valparaíso,Laboratorio Clínico o Dental,Laboratorio Clínico IDU Solaris,Viña del Mar,-33.017635,-71.549595,Privado,No Aplica
+200424,Región De Valparaíso,Laboratorio Clínico o Dental,Laboratorio Clínico Erna Moraga Romero,Valparaíso,-33.043826,-71.624047,Privado,No Aplica
+200432,Región De Valparaíso,Laboratorio Clínico o Dental,Laboratorio Clínico Cheul Etcheverry,Viña del Mar,-33.023627,-71.556257,Privado,No Aplica
+200433,Región De Valparaíso,Laboratorio Clínico o Dental,Laboratorio Clínico Diagnostika Alemana,Viña del Mar,-33.024041,-71.557124,Privado,No Aplica
+200434,Región De Valparaíso,Laboratorio Clínico o Dental,Laboratorio Clínico Cemeval,Viña del Mar,-33.025154,-71.552534,Privado,No Aplica
+200451,Región De Valparaíso,Centro de Salud,Instituto Medico Infantil,Viña del Mar,-33.007476,-71.548026,Privado,Baja Complejidad
+200502,Región De Valparaíso,Centro de Salud,Policlínico Instituto de Seguridad del Trabajo de San Antonio,San Antonio,-33.590637,-71.604835,Privado,Baja Complejidad
+200513,Región De Valparaíso,Laboratorio Clínico o Dental,Laboratorio Clínico Diagnomed Ltda.,Viña del Mar,-33.022638,-71.558248,Privado,No Aplica
+200532,Región De Valparaíso,Clínica Dental,Centro Odontológico Uno Salud Dental Viña del Mar Dos,Viña del Mar,-33.025908,-71.547465,Privado,Mediana Complejidad
+200561,Región De Valparaíso,Laboratorio Clínico o Dental,Laboratorio Médico Canales Escartín Ltda.,Viña del Mar,-33.023685,-71.556267,Privado,No Aplica
+200590,Región De Valparaíso,Centro de Referencia de Salud (CRS),Centro de Resolución de Especialidades Ambulatorias (CREA),Viña del Mar,-33.020806,-71.552962,Público ,Mediana Complejidad
+200605,Región De Valparaíso,Laboratorio Clínico o Dental,Laboratorio Clínico Bionet S.A. - Viña del Mar,Viña del Mar,-33.016216,-71.552341,Privado,No Aplica
+200635,Región De Valparaíso,Centro de Salud,Centro Médico CENTROMED,Valparaíso,-33.045481,-71.620582,Privado,Mediana Complejidad
+200666,Región De Valparaíso,Servicio Médico Legal,Servicio Médico Legal Valparaíso,Valparaíso,-33.052905,-71.60856,Institución Medicina Legal,No Aplica
+200668,Región De Valparaíso,Servicio Médico Legal,Servicio Médico Legal San Antonio,San Antonio,-33.612248,-71.616726,Institución Medicina Legal,No Aplica
+200716,Región De Valparaíso,Clínica,Clínica Intermedical,San Antonio,-33.588121,-71.608888,Privado,Mediana Complejidad
+200731,Región De Valparaíso,Servicio de Urgencia Rural (SUR),SUR Laguna Verde,Valparaíso,-33.104226,-71.667873,Público ,Baja Complejidad
+200795,Región De Valparaíso,Centro de Diálisis,Centro de Diálisis Diamar Ltda.,San Antonio,-33.599994,-71.614601,Privado,Mediana Complejidad
+200927,Región De Valparaíso,Laboratorio Clínico o Dental,Laboratorio clínico Corporación Municipal de Valparaíso,Valparaíso,-33.053298,-71.601689,Privado,No Aplica
